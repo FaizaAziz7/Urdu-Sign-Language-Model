@@ -1,6 +1,5 @@
-# Urdu-Sign-Language-Model
+# Urdu-Sign-Language-Model (MediaPipe)
 
-Model Description
 
 This model supports Urdu Sign Language (USL) to enable two-way communication between deaf/mute individuals and hearing people through real-time gesture recognition.
 
